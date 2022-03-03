@@ -1,1 +1,1 @@
-# secon-day-repo
+# second-day-repo
